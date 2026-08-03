@@ -34,10 +34,6 @@ Data Analyst — I turn raw data into dashboards, KPIs, and business decisions. 
       <sub>Across 307+ orders</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/98.7%-Handling%20Ratio-0EA5E9?style=for-the-badge" /><br/>
-      <sub>Call center operations</sub>
-    </td>
-    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/GPA-3.66%2F4.0-0EA5E9?style=for-the-badge" /><br/>
       <sub>BIS · Business Information Systems</sub>
     </td>
