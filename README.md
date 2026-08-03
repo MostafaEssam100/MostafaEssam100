@@ -21,7 +21,7 @@
 
 ## 📌 Who I Am
 
-Data Analyst based in **Giza, Egypt** — I turn raw data into dashboards, KPIs, and business decisions. Skilled across the full analytics workflow: **SQL querying → data cleaning & modeling → visualization & storytelling**.
+Data Analyst — I turn raw data into dashboards, KPIs, and business decisions. Skilled across the full analytics workflow: **SQL querying → data cleaning & modeling → visualization & storytelling**.
 
 <table align="center">
   <tr>
@@ -113,35 +113,8 @@ Data Analyst based in **Giza, Egypt** — I turn raw data into dashboards, KPIs,
 
 ---
 
-## 💼 Experience
 
-**Team Leader & Accountant** · Educational Center | *Mar 2023 – Nov 2025*
-- 📈 Delivered monthly performance & financial reports in Excel using **PivotTables and KPI summaries** for management decisions
-- 👥 Monitored operational KPIs across a **team of 5**, coordinating workflow and improving efficiency
-- 🔍 Conducted operational analysis to identify inefficiencies and **implemented process improvements** that increased team productivity
-- 🤖 Automated recurring Excel reporting with **structured data validation** for accuracy
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **Bachelor of Business Information Systems (BIS)** — Faculty of Business Information Systems | *Expected Jul 2026* | **GPA: 3.66 / 4.0 (Very Good)**
-- 📜 **Professional Data Analyst Diploma** — Mazen Analytics *(SQL, Excel, Power BI, Python, Tableau, Statistics, Business Fundamentals)*
-- 🌍 **English Language Certificate** — The American University in Cairo (AUC), **B2 Level**
-
-**Languages:** 🇪🇬 Arabic (Native) · 🇬🇧 English (B2 – Upper Intermediate)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MostafaEssam100&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam100&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" />
+username=MostafaEssam100&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 <p align="center">
