@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Interactive+Dashboards;Writing+Efficient+SQL+Queries;Delivering+Business+Insights;KPI+Reporting+%26+Data+Modeling" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
-</p>
-
 ---
 
 ## Profile Summary
