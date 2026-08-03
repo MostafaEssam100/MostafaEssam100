@@ -1,4 +1,4 @@
-<p align="center">
+ء<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=180&section=header&text=Mostafa%20Essam%20Eldien%20Fathy&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Data%20Analyst&descAlignY=56&descAlign=62" width="100%" />
 </p>
 
@@ -6,6 +6,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Interactive+Dashboards;Writing+Efficient+SQL+Queries;Delivering+Business+Insights;KPI+Reporting+%26+Data+Modeling" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
 </p>
 
 ---
@@ -48,14 +52,30 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 
 ## Selected Projects
 
-| # | Project | Description | Tools | Key Outcomes |
-|---|---------|-------------|-------|--------------|
-| 1 | **Pharmacy Inventory Dashboard** | End-to-end inventory monitoring solution with a star-schema data model | SQL, Power BI, DAX, Power Query | 10+ metrics across 8+ visualizations; KPI cards for stock, suppliers, pricing & expiry |
-| 2 | **Salla Call Center Performance** | Operational performance tracking with custom DAX measures | Power BI, DAX | 98.7% handling ratio · 91% service level · 1.3% abandon rate |
-| 3 | **Adidas Sales Analysis** | Revenue performance analysis across product lines | SQL, Excel, Power BI | Identified key revenue drivers to support strategic decisions |
-| 4 | **Cottonil Inventory Analysis** | Stock-level monitoring and product trend tracking | SQL, Excel, Power BI | Real-time dashboards enabling faster inventory decisions |
-| 5 | **Sales Performance Analysis** | Multi-region sales analysis with quarterly trend insights | Tableau | $10M+ in sales across 307 orders; $1.09M December spike identified |
-| 6 | **MISUO Sales Dashboard** | Customer order tracking with automated KPI summaries | Excel (PivotTables, Slicers) | $1.29M tracked revenue · 125 orders · 90.51% on-time delivery |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=Interactive+Dashboards+%26+Analytics+Reports;Power+BI+%7C+Tableau+%7C+Excel" />
+</p>
+
+### 📊 Power BI & SQL Dashboards
+
+| Project | Description | Tools | Key Outcomes |
+|---------|-------------|-------|--------------|
+| **Pharmacy Inventory Dashboard** | End-to-end inventory monitoring with a star-schema data model | SQL, Power BI, DAX, Power Query | 10+ metrics across 8+ visualizations; KPI cards for stock, suppliers, pricing & expiry |
+| **Salla Call Center Performance** | Operational performance tracking with custom DAX measures | Power BI, DAX | 98.7% handling ratio · 91% service level · 1.3% abandon rate |
+| **Adidas Sales Analysis** | Revenue performance analysis across product lines | SQL, Excel, Power BI | Identified key revenue drivers to support strategic decisions |
+| **Cottonil Inventory Analysis** | Stock-level monitoring and product trend tracking | SQL, Excel, Power BI | Real-time dashboards enabling faster inventory decisions |
+
+### 📈 Tableau Visualization
+
+| Project | Description | Tools | Key Outcomes |
+|---------|-------------|-------|--------------|
+| **Sales Performance Analysis** | Multi-region sales analysis with quarterly trend insights | Tableau | $10M+ in sales across 307 orders; $1.09M December spike identified |
+
+### 📗 Excel Analytics
+
+| Project | Description | Tools | Key Outcomes |
+|---------|-------------|-------|--------------|
+| **MISUO Sales Dashboard** | Customer order tracking with automated KPI summaries | Excel (PivotTables, Slicers) | $1.29M tracked revenue · 125 orders · 90.51% on-time delivery |
 
 ---
 
@@ -97,6 +117,10 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MostafaEssam100&style=flat-square&color=8B5CF6" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=EC4899&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let%27s+connect+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
