@@ -1,39 +1,40 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mostafa Essam</h1>
 
-# Hi, I'm Mostafa Essam 👋
+<h3 align="center">
+Data Analyst • Business Intelligence Enthusiast • SQL • Power BI • Python
+</h3>
 
-### Data Analyst | SQL | Python | Power BI | Excel | Tableau
-
-Transforming raw data into meaningful insights that drive smarter business decisions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
+<p align="center">
+Passionate about transforming raw data into actionable insights and building data-driven solutions.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Data Analyst with a passion for transforming data into actionable insights through analysis, visualization, and storytelling.
+I'm a Data Analyst with a strong passion for data analytics, business intelligence, and problem solving.
 
-I enjoy solving business problems using data and continuously improving my skills in analytics, business intelligence, and data visualization.
+I enjoy exploring datasets, identifying trends, creating interactive dashboards, and helping businesses make better decisions through data.
+
+I believe data tells a story, and my goal is to make that story clear, meaningful, and impactful.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
@@ -41,56 +42,93 @@ I enjoy solving business problems using data and continuously improving my skill
 
 ---
 
-## 📊 Core Skills
+# 💼 What I Do
 
-- Data Analysis
-- Business Intelligence
-- SQL Query Optimization
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- ETL Fundamentals
-- Data Storytelling
-- Statistical Analysis
+✔ Data Analysis
 
----
+✔ Business Intelligence
 
-## 📂 Featured Projects
+✔ SQL Query Development
 
-- 📊 SQL Analytics Projects
-- 📈 Power BI Dashboards
-- 📉 Excel Dashboards
-- 🐍 Python Data Analysis
-- 📋 Business Intelligence Case Studies
+✔ Dashboard Development
+
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ Reporting
+
+✔ Data Storytelling
 
 ---
 
-## 📈 GitHub Stats
+# 📂 Featured Projects
+
+📊 SQL Data Analysis Projects
+
+📈 Power BI Dashboards
+
+📉 Excel Dashboards
+
+🐍 Python Data Analysis
+
+📋 Business Intelligence Case Studies
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Machine Learning Fundamentals
+- Data Warehousing
+- Data Engineering Basics
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam100&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam100&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam100&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam100&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Objective
 
-To build data-driven solutions that help organizations make smarter decisions and create measurable business impact through analytics and business intelligence.
+To leverage data analytics and business intelligence techniques to solve real-world business challenges, generate actionable insights, and continuously grow as a Data Analyst.
 
 ---
 
-<div align="center">
+# 🤝 Let's Connect
 
-### Thanks for visiting my profile ⭐
+<p align="left">
 
-</div>
+<a href="ضع رابط لينكدإن هنا">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ضع_الإيميل_هنا">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
