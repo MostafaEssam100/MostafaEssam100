@@ -22,10 +22,10 @@
 I'm a Data Analyst who enjoys turning messy, real-world data into dashboards and reports that support faster, smarter decisions. I focus on **SQL querying, data modeling, and interactive dashboard development** using Power BI, Tableau, and Excel — with Python for deeper analysis when needed.
 
 ```
-🔭  Building end-to-end BI projects: data extraction → modeling → visualization
-🌱  Continuously sharpening SQL, DAX, and Python skills
-💡  Interested in inventory analytics, sales performance, and operations reporting
-🎓  Bachelor of Business Information Systems (BIS) — Expected 2026
+  Building end-to-end BI projects: data extraction → modeling → visualization
+  Continuously sharpening SQL, DAX, and Python skills
+  Interested in inventory analytics, sales performance, and operations reporting
+  Bachelor of Business Information Systems (BIS) — Expected 2026
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:2E86C1&height=3&section=header" width="100%"/>
@@ -129,7 +129,7 @@ Developed an interactive Excel workbook analyzing 125 orders from 68 customers, 
 </tr>
 </table>
 
-> 📌 *Repository links above are placeholders — update them once each project is uploaded to match your actual repo names.*
+>  *Repository links above are placeholders — update them once each project is uploaded to match your actual repo names.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:2E86C1&height=3&section=header" width="100%"/>
 
