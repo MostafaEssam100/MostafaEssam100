@@ -1,40 +1,50 @@
-<h1 align="center">Hi 👋, I'm Mostafa Essam</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst • Business Intelligence Enthusiast • SQL • Power BI • Python
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mostafa%20Essam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-Passionate about transforming raw data into actionable insights and building data-driven solutions.
-</p>
+# Hi 👋 I'm Mostafa Essam
+
+### 📊 Data Analyst | Business Intelligence | SQL • Python • Power BI
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+%26+Storytelling;Always+Learning+Something+New"/>
+
+<img src="https://komarev.com/ghpvc/?username=MostafaEssam100&style=for-the-badge&color=blue"/>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a Data Analyst with a strong passion for data analytics, business intelligence, and problem solving.
+💡 Passionate about transforming raw data into meaningful business insights.
 
-I enjoy exploring datasets, identifying trends, creating interactive dashboards, and helping businesses make better decisions through data.
+📈 I enjoy analyzing datasets, discovering patterns, and building interactive dashboards that support data-driven decisions.
 
-I believe data tells a story, and my goal is to make that story clear, meaningful, and impactful.
+🎯 Currently focused on expanding my expertise in Data Analytics, Business Intelligence, and Machine Learning.
 
 ---
 
-## 🚀 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
@@ -42,82 +52,79 @@ I believe data tells a story, and my goal is to make that story clear, meaningfu
 
 ---
 
-# 💼 What I Do
+# 💼 Core Skills
 
-✔ Data Analysis
-
-✔ Business Intelligence
-
-✔ SQL Query Development
-
-✔ Dashboard Development
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Reporting
-
-✔ Data Storytelling
+- 📊 Data Analysis
+- 📈 Business Intelligence
+- 🗄 SQL
+- 🐍 Python
+- 📉 Data Visualization
+- 📊 Power BI
+- 📋 Excel
+- 🧹 Data Cleaning
+- 📖 Data Storytelling
+- 📦 ETL Fundamentals
+- 📐 Statistics
 
 ---
 
 # 📂 Featured Projects
 
-📊 SQL Data Analysis Projects
-
-📈 Power BI Dashboards
-
-📉 Excel Dashboards
-
-🐍 Python Data Analysis
-
-📋 Business Intelligence Case Studies
+- 📊 SQL Analytics
+- 📈 Power BI Dashboards
+- 📉 Excel Dashboards
+- 🐍 Python Projects
+- 📋 Business Intelligence Case Studies
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced SQL
-- Machine Learning Fundamentals
-- Data Warehousing
-- Data Engineering Basics
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam100&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam100&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam100&layout=compact&theme=tokyonight"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam100&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🎯 Career Objective
+# 🏆 GitHub Trophy
 
-To leverage data analytics and business intelligence techniques to solve real-world business challenges, generate actionable insights, and continuously grow as a Data Analyst.
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MostafaEssam100&theme=algolia&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🐍 Contribution Snake
 
-<p align="left">
+<p align="center">
 
-<a href="ضع رابط لينكدإن هنا">
+<img src="https://raw.githubusercontent.com/MostafaEssam100/MostafaEssam100/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ضع_الإيميل_هنا">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -125,10 +132,12 @@ To leverage data analytics and business intelligence techniques to solve real-wo
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
