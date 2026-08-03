@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B33,100:0EA5E9&height=180&section=header&text=Mostafa%20Essam%20Eldien%20Fathy&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Data%20Analyst%20%E2%80%A2%20Giza%2C%20Egypt&descAlignY=56&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B33,100:0EA5E9&height=180&section=header&text=Mostafa%20Essam%20Eldien%20Fathy&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Data%20Analyst%20%E2%80%A2%20&descAlignY=56&descAlign=62" width="100%" />
 </p>
 
 <h2 align="center">Data Analyst | SQL · Power BI · Tableau · Python · Excel</h2>
