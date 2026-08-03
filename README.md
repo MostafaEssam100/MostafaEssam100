@@ -1,146 +1,91 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0369A1&height=200&section=header&text=Mostafa%20Essam&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Data%20Analyst&descAlignY=58&descAlign=62" width="100%" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=SQL+%7C+Power+BI+%7C+Tableau+%7C+Python+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights;Dashboards+%7C+KPI+Reporting+%7C+Business+Intelligence;Star+Schema+%7C+ETL+%7C+Data+Modeling" />
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1F3A,50:1F3864,100:2E4A7A&height=150&section=header&text=MOSTAFA%20ESSAM&fontSize=38&fontColor=D4AF37&fontAlignY=40&desc=Data%20Analyst%20%E2%80%94%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau%20%C2%B7%20Python&descAlignY=62&descSize=16&descColor=E8E8E8" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+<a href="https://linkedin.com/in/mostafa-essam-00862136b">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+</a>
+<a href="mailto:mostafa.essam7760@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+</a>
 
----
+<br/><br/>
 
-##  *Who I am*
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3500&pause=900&color=1F3864&center=true&vCenter=true&width=620&lines=Turning+Raw+Data+Into+Actionable+Insights;Building+Dashboards+That+Drive+Decisions;SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%C2%B7+Excel+%C2%B7+Python" alt="Typing SVG" />
 
-Data Analyst — I turn raw data into dashboards, KPIs, and business decisions. Skilled across the full analytics workflow: **SQL querying → data cleaning & modeling → visualization & storytelling**.
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/6+-Dashboards%20Built-0EA5E9?style=for-the-badge" /><br/>
-      <sub>Power BI · Tableau · Excel</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/%2410M%2B-Sales%20Analyzed-0EA5E9?style=for-the-badge" /><br/>
-      <sub>Across 307+ orders</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/GPA-3.66%2F4.0-0EA5E9?style=for-the-badge" /><br/>
-      <sub>BIS · Business Information Systems</sub>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1F3864&height=2&section=header" width="100%"/>
 
-## 🛠️ Skills & Tools
+## About Me
 
-| Category | Tools |
-|----------|-------|
-| **Databases** | SQL, Microsoft SQL Server, PostgreSQL |
-| **Programming** | Python (Pandas, NumPy) |
-| **Visualization** | Power BI (DAX, Power Query), Tableau, Excel (PivotTables & PivotCharts) |
-| **Analytics** | Data Cleaning, Transformation, Modeling, Star Schema, ETL, Statistical Analysis |
-| **Reporting** | KPI Reporting, Dashboard Development, Business Intelligence, Stakeholder Reporting |
+Data Analyst with hands-on experience building interactive dashboards, writing SQL queries, cleaning and modeling datasets, and delivering actionable business insights. Focused on KPI reporting, data modeling, and visualization to support data-driven decisions.
 
----
+- Building end-to-end BI projects: data extraction, modeling, and visualization
+- Continuously developing SQL, DAX, and Python skills
+- Interested in inventory analytics, sales performance, and operations reporting
+- Bachelor of Business Information Systems (BIS) — Expected 2026
 
-## 📂 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1F3864&height=2&section=header" width="100%"/>
 
-<table align="center">
-  <tr>
-    <td>
-      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
-        <h3>💊 Pharmacy Inventory Dashboard</h3>
-        <p style="color:#8b949e;"><b>SQL · Power BI · DAX · Power Query</b></p>
-        <p>Star schema model with DAX KPI cards — Total Products, Suppliers, Avg Price, Stock & Expired items. <b>10+ metrics across 8+ visuals</b> to monitor inventory trends and supplier reliability.</p>
-      </div>
-    </td>
-    <td>
-      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
-        <h3>📞 Salla Call Center Performance</h3>
-        <p style="color:#8b949e;"><b>Power BI · DAX</b></p>
-        <p>Custom DAX measures tracking operational KPIs: <b>98.7% handling ratio</b>, 91% service level, 1.3% abandon rate — across <b>7+ visualizations</b> with month & project filters.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
-        <h3>👟 Adidas Sales Analysis</h3>
-        <p style="color:#8b949e;"><b>SQL · Excel · Power BI</b></p>
-        <p>Extracted & cleaned transactional data in SQL, then analyzed revenue trends by product with Excel & Power BI — producing actionable strategic insights.</p>
-      </div>
-    </td>
-    <td>
-      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
-        <h3>🧵 Cottonil Inventory Analysis</h3>
-        <p style="color:#8b949e;"><b>SQL · Excel · Power BI</b></p>
-        <p>Cleaned inventory records in SQL & Excel, then built Power BI dashboards to monitor stock levels and track product trends in real time.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
-        <h3>📊 Sales Performance Analysis</h3>
-        <p style="color:#8b949e;"><b>Tableau</b></p>
-        <p>Interactive workbook tracking <b>$10M+ in sales across 307 orders</b>. Identified a $1.09M December spike and a $6.09M mid-size deal segment.</p>
-      </div>
-    </td>
-    <td>
-      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
-        <h3>🛍️ MISUO Sales Dashboard</h3>
-        <p style="color:#8b949e;"><b>Excel</b></p>
-        <p>125 orders · 68 customers · <b>$1.29M tracked revenue</b>. 5 core KPIs, 6+ PivotCharts with Slicers, and a 90.51% on-time delivery breakdown.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
----
+<div align="center">
 
+**Databases & Programming**
 
-username=MostafaEssam100&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" />
-</p>
+<img src="https://img.shields.io/badge/SQL-1F3864?style=for-the-badge&logo=mysql&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/SQL_Server-1F3864?style=for-the-badge&logo=microsoftsqlserver&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Python-1F3864?style=for-the-badge&logo=python&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Pandas-1F3864?style=for-the-badge&logo=pandas&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/NumPy-1F3864?style=for-the-badge&logo=numpy&logoColor=D4AF37" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam100&theme=transparent&hide_border=true" width="50%" />
-</p>
+**BI & Visualization**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MostafaEssam100&theme=react-dark&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/Power_BI-1F3864?style=for-the-badge&logo=powerbi&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/DAX-1F3864?style=for-the-badge&logo=powerbi&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Power_Query-1F3864?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Tableau-1F3864?style=for-the-badge&logo=tableau&logoColor=D4AF37" />
 
----
+**Spreadsheets**
 
-## 📬 Let's Connect
+<img src="https://img.shields.io/badge/Excel-1F3864?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Google_Sheets-1F3864?style=for-the-badge&logo=googlesheets&logoColor=D4AF37" />
 
-<p align="center">
-  <a href="mailto:mostafa.essam7760@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mostafa-essam-00862136b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201033230489">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MostafaEssam100&style=flat-square&color=0EA5E9" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1F3864&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,100:0EA5E9&height=120&section=footer" width="100%" />
-</p>
+## Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| **[Pharmacy Inventory Dashboard](https://github.com/MostafaEssam100/pharmacy-inventory-dashboard)** | SQL · Power BI · DAX · Power Query · Star Schema | End-to-end inventory dashboard on a star-schema data model. Analyzed 10+ metrics across 8+ visualizations with DAX-driven KPI cards for products, suppliers, pricing, stock, and expiry. |
+| **[Salla Call Center Dashboard](https://github.com/MostafaEssam100/salla-call-center-dashboard)** | Power BI · DAX | Interactive dashboard with custom DAX measures tracking 4 core KPIs across 3 projects — 98.7% handling ratio and 91% service level against a 95% target. |
+| **[Adidas Sales Analysis](https://github.com/MostafaEssam100/adidas-sales-analysis)** | SQL · Excel · Power BI | Extracted and cleaned transactional sales data with SQL, then examined revenue performance trends to support strategic decisions. |
+| **[Cottonil Inventory Analysis](https://github.com/MostafaEssam100/cottonil-inventory-analysis)** | SQL · Excel · Power BI | Cleaned and transformed inventory records, then built Power BI dashboards to monitor stock levels and product trends. |
+| **[Sales Performance Analysis](https://github.com/MostafaEssam100/sales-performance-tableau)** | Tableau | Interactive Tableau workbook tracking $10M+ in sales across 307 orders, with quarterly, country, and deal-size breakdowns. |
+| **[MISUO Sales Dashboard](https://github.com/MostafaEssam100/misuo-sales-dashboard-excel)** | Excel · PivotTables · PivotCharts | Interactive Excel workbook analyzing 125 orders from 68 customers, tracking 5 core KPIs including a 90.51% on-time delivery rate. |
+
+*Repository links above are placeholders — update them once each project is uploaded to match your actual repo names.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:1F3864&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+## Let's Connect
+
+<a href="https://linkedin.com/in/mostafa-essam-00862136b">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+</a>
+<a href="mailto:mostafa.essam7760@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E4A7A,50:1F3864,100:0B1F3A&height=90&section=footer" width="100%"/>
+
+</div>
