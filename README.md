@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Who I Am
+##  *Who I am*
 
 Data Analyst — I turn raw data into dashboards, KPIs, and business decisions. Skilled across the full analytics workflow: **SQL querying → data cleaning & modeling → visualization & storytelling**.
 
