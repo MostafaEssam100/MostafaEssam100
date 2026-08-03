@@ -1,82 +1,143 @@
-<h1 align="center">👋 Hi, I'm Mostafa Essam</h1>
-<h3 align="center">Data Analyst | SQL · Power BI · Tableau · Python · Excel</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0369A1&height=200&section=header&text=Mostafa%20Essam&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Data%20Analyst&descAlignY=58&descAlign=62" width="100%" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=SQL+%7C+Power+BI+%7C+Tableau+%7C+Python+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights;Dashboards+%7C+KPI+Reporting+%7C+Business+Intelligence;Star+Schema+%7C+ETL+%7C+Data+Modeling" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights;Interactive+Dashboards+%26+Business+Intelligence;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python+%7C+Excel" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
-## 📌 About Me
+## 📌 Who I Am
 
-Data Analyst based in **Giza, Egypt**, skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hands-on experience building interactive dashboards, writing SQL queries, transforming datasets, and delivering actionable business insights.
+Data Analyst based in **Giza, Egypt** — I turn raw data into dashboards, KPIs, and business decisions. Skilled across the full analytics workflow: **SQL querying → data cleaning & modeling → visualization & storytelling**.
 
-- 📊 Experienced in **data cleaning, data modeling, KPI reporting, and business intelligence**
-- 🛠️ Star schema design, ETL, and dashboard development
-- 🎯 Focused on supporting **data-driven decision-making** across industries
-- 🧠 Lifelong learner — currently finishing my **BIS degree** (GPA 3.66/4.0)
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/6+-Dashboards%20Built-0EA5E9?style=for-the-badge" /><br/>
+      <sub>Power BI · Tableau · Excel</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/%2410M%2B-Sales%20Analyzed-0EA5E9?style=for-the-badge" /><br/>
+      <sub>Across 307+ orders</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/98.7%-Handling%20Ratio-0EA5E9?style=for-the-badge" /><br/>
+      <sub>Call center operations</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/GPA-3.66%2F4.0-0EA5E9?style=for-the-badge" /><br/>
+      <sub>BIS · Business Information Systems</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Skills & Tools
 
-### Databases & Programming
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Analytics Skills
-| Area | Skills |
-|------|--------|
-| **Data** | Cleaning, Transformation, Modeling, ETL, Statistical Analysis |
-| **BI** | Dashboard Development, KPI Reporting, Star Schema, Business Intelligence |
-| **Soft** | Analytical Thinking, Problem Solving, Stakeholder Reporting, Teamwork |
+| Category | Tools |
+|----------|-------|
+| **Databases** | SQL, Microsoft SQL Server, PostgreSQL |
+| **Programming** | Python (Pandas, NumPy) |
+| **Visualization** | Power BI (DAX, Power Query), Tableau, Excel (PivotTables & PivotCharts) |
+| **Analytics** | Data Cleaning, Transformation, Modeling, Star Schema, ETL, Statistical Analysis |
+| **Reporting** | KPI Reporting, Dashboard Development, Business Intelligence, Stakeholder Reporting |
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Stack | Highlights |
-|---------|-------|-----------|
-| **Pharmacy Inventory Dashboard** | SQL, Power BI, DAX, Power Query | Star schema model, DAX KPI cards (Total Products, Suppliers, Avg Price, Stock, Expired), 10+ metrics across 8+ visuals |
-| **Salla Call Center Performance** | Power BI, DAX | 98.7% handling ratio, 91% service level, 1.3% abandon rate, 7+ visuals with month filters |
-| **Adidas Sales Analysis** | SQL, Excel, Power BI | Revenue trend analysis across products, actionable strategic insights |
-| **Cottonil Inventory Analysis** | SQL, Excel, Power BI | Inventory monitoring dashboards, stock-level trend tracking |
-| **Sales Performance Analysis** | Tableau | $10M+ tracked across 307 orders, $1.09M December spike, $6.09M mid-size deal segment |
-| **MISUO Sales Dashboard** | Excel | 125 orders, 68 customers, $1.29M revenue, 5 KPIs, PivotTables + Slicers, 90.51% on-time delivery |
+<table align="center">
+  <tr>
+    <td>
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
+        <h3>💊 Pharmacy Inventory Dashboard</h3>
+        <p style="color:#8b949e;"><b>SQL · Power BI · DAX · Power Query</b></p>
+        <p>Star schema model with DAX KPI cards — Total Products, Suppliers, Avg Price, Stock & Expired items. <b>10+ metrics across 8+ visuals</b> to monitor inventory trends and supplier reliability.</p>
+      </div>
+    </td>
+    <td>
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
+        <h3>📞 Salla Call Center Performance</h3>
+        <p style="color:#8b949e;"><b>Power BI · DAX</b></p>
+        <p>Custom DAX measures tracking operational KPIs: <b>98.7% handling ratio</b>, 91% service level, 1.3% abandon rate — across <b>7+ visualizations</b> with month & project filters.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
+        <h3>👟 Adidas Sales Analysis</h3>
+        <p style="color:#8b949e;"><b>SQL · Excel · Power BI</b></p>
+        <p>Extracted & cleaned transactional data in SQL, then analyzed revenue trends by product with Excel & Power BI — producing actionable strategic insights.</p>
+      </div>
+    </td>
+    <td>
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
+        <h3>🧵 Cottonil Inventory Analysis</h3>
+        <p style="color:#8b949e;"><b>SQL · Excel · Power BI</b></p>
+        <p>Cleaned inventory records in SQL & Excel, then built Power BI dashboards to monitor stock levels and track product trends in real time.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
+        <h3>📊 Sales Performance Analysis</h3>
+        <p style="color:#8b949e;"><b>Tableau</b></p>
+        <p>Interactive workbook tracking <b>$10M+ in sales across 307 orders</b>. Identified a $1.09M December spike and a $6.09M mid-size deal segment.</p>
+      </div>
+    </td>
+    <td>
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:18px;width:330px;">
+        <h3>🛍️ MISUO Sales Dashboard</h3>
+        <p style="color:#8b949e;"><b>Excel</b></p>
+        <p>125 orders · 68 customers · <b>$1.29M tracked revenue</b>. 5 core KPIs, 6+ PivotCharts with Slicers, and a 90.51% on-time delivery breakdown.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
 **Team Leader & Accountant** · Educational Center | *Mar 2023 – Nov 2025*
-- Delivered monthly performance and financial reports in Excel using **PivotTables and KPI summaries** for management decisions.
-- Monitored operational KPIs across a **team of 5**, improving workflow efficiency.
-- Analyzed operational data to identify inefficiencies and **implemented process improvements** that increased team productivity.
-- Automated recurring Excel reporting with structured **data validation** for accuracy.
+- 📈 Delivered monthly performance & financial reports in Excel using **PivotTables and KPI summaries** for management decisions
+- 👥 Monitored operational KPIs across a **team of 5**, coordinating workflow and improving efficiency
+- 🔍 Conducted operational analysis to identify inefficiencies and **implemented process improvements** that increased team productivity
+- 🤖 Automated recurring Excel reporting with **structured data validation** for accuracy
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Bachelor of Business Information Systems (BIS)** — Faculty of Business Information Systems *(expected Jul 2026)* | **GPA: 3.66 / 4.0**
-- 📜 **Professional Data Analyst Diploma** — Mazen Analytics (SQL, Excel, Power BI, Python, Tableau, Statistics, Business Fundamentals)
-- 🌍 **English Language Certificate** — The American University in Cairo (AUC), B2 Level
+- 🎓 **Bachelor of Business Information Systems (BIS)** — Faculty of Business Information Systems | *Expected Jul 2026* | **GPA: 3.66 / 4.0 (Very Good)**
+- 📜 **Professional Data Analyst Diploma** — Mazen Analytics *(SQL, Excel, Power BI, Python, Tableau, Statistics, Business Fundamentals)*
+- 🌍 **English Language Certificate** — The American University in Cairo (AUC), **B2 Level**
 
-**Languages:** Arabic (Native) · English (B2 – Upper Intermediate)
+**Languages:** 🇪🇬 Arabic (Native) · 🇬🇧 English (B2 – Upper Intermediate)
 
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MostafaEssam100&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
@@ -86,10 +147,6 @@ Data Analyst based in **Giza, Egypt**, skilled in **SQL, Power BI, Excel, Tablea
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaEssam100&theme=transparent&hide_border=true" width="50%" />
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MostafaEssam100&theme=react-dark&hide_border=true" />
@@ -115,6 +172,6 @@ Data Analyst based in **Giza, Egypt**, skilled in **SQL, Power BI, Excel, Tablea
   <img src="https://komarev.com/ghpvc/?username=MostafaEssam100&style=flat-square&color=0EA5E9" alt="Profile views" />
 </p>
 
----
-
-*"Turning raw data into decisions." — Mostafa Essam*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,100:0EA5E9&height=120&section=footer" width="100%" />
+</p>
