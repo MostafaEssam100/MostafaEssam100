@@ -48,42 +48,14 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 
 ## Selected Projects
 
-### 🩺 Pharmacy Inventory Dashboard
-**SQL · Power BI · DAX · Power Query**
-- Extracted pharmacy inventory data via SQL and transformed it with Power Query into a structured data model
-- Designed a **star schema** with fact and dimension tables to support accurate, scalable reporting
-- Built **DAX measures and KPI cards** for Total Products, Suppliers, Average Price, Stock Quantity, and Expired Products
-- Delivered a dynamic monitoring dashboard covering **10+ metrics across 8+ visualizations**
-
-### ☎️ Salla Call Center Performance Dashboard
-**Power BI · DAX**
-- Developed an interactive dashboard with custom DAX measures to monitor operational KPIs across multiple projects
-- Tracked performance against targets: **98.7% handling ratio**, **91% service level**, **1.3% abandon rate**
-- Provided month filters and project-level breakdowns across **7+ visualizations**, supporting resource allocation decisions
-
-### 👟 Adidas Sales Analysis
-**SQL · Excel · Power BI**
-- Extracted and cleaned transactional sales data using SQL to ensure analytical accuracy
-- Evaluated revenue performance by product and surfaced key revenue drivers
-- Delivered visual insights supporting strategic decision-making
-
-### 🧵 Cottonil Inventory Analysis
-**SQL · Excel · Power BI**
-- Cleaned and standardized inventory records to ensure data consistency
-- Built Power BI dashboards monitoring stock levels and product trends
-- Presented dynamic reports enabling faster inventory decisions
-
-### 📊 Sales Performance Analysis — Tableau
-**Tableau**
-- Built an interactive workbook tracking **$10M+ in sales across 307 orders**
-- Analyzed quarterly revenue from **$1.76M (Q3) to $3.87M (Q4)** and pinpointed a **$1.09M December spike**
-- Identified a **$3.63M leading market** and a **$6.09M mid-size deal segment**
-
-### 🛍️ MISUO Sales Dashboard — Excel
-**Excel (PivotTables, PivotCharts, Slicers)**
-- Analyzed **125 orders from 68 customers**, totaling **$1.29M** in tracked revenue
-- Tracked 5 core KPIs with an average order value of **$10,277**
-- Delivered **6+ charts** including a **90.51% on-time delivery** breakdown
+| # | Project | Description | Tools | Key Outcomes |
+|---|---------|-------------|-------|--------------|
+| 1 | **Pharmacy Inventory Dashboard** | End-to-end inventory monitoring solution with a star-schema data model | SQL, Power BI, DAX, Power Query | 10+ metrics across 8+ visualizations; KPI cards for stock, suppliers, pricing & expiry |
+| 2 | **Salla Call Center Performance** | Operational performance tracking with custom DAX measures | Power BI, DAX | 98.7% handling ratio · 91% service level · 1.3% abandon rate |
+| 3 | **Adidas Sales Analysis** | Revenue performance analysis across product lines | SQL, Excel, Power BI | Identified key revenue drivers to support strategic decisions |
+| 4 | **Cottonil Inventory Analysis** | Stock-level monitoring and product trend tracking | SQL, Excel, Power BI | Real-time dashboards enabling faster inventory decisions |
+| 5 | **Sales Performance Analysis** | Multi-region sales analysis with quarterly trend insights | Tableau | $10M+ in sales across 307 orders; $1.09M December spike identified |
+| 6 | **MISUO Sales Dashboard** | Customer order tracking with automated KPI summaries | Excel (PivotTables, Slicers) | $1.29M tracked revenue · 125 orders · 90.51% on-time delivery |
 
 ---
 
@@ -106,19 +78,6 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 | 🌍 **English Certificate** | The American University in Cairo (AUC) · B2 (Upper Intermediate) |
 
 **Languages:** Arabic (Native) · English (B2)
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaEssam100&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaEssam100&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MostafaEssam100&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
