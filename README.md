@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B33,100:0EA5E9&height=180&section=header&text=Mostafa%20Essam%20Eldien%20Fathy&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Data%20Analyst%20%E2%80%A2%20&descAlignY=56&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=180&section=header&text=Mostafa%20Essam%20Eldien%20Fathy&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Data%20Analyst&descAlignY=56&descAlign=62" width="100%" />
 </p>
 
 <h2 align="center">Data Analyst | SQL · Power BI · Tableau · Python · Excel</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+Interactive+Dashboards;Writing+Efficient+SQL+Queries;Delivering+Business+Insights;KPI+Reporting+%26+Data+Modeling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Interactive+Dashboards;Writing+Efficient+SQL+Queries;Delivering+Business+Insights;KPI+Reporting+%26+Data+Modeling" />
 </p>
 
 ---
@@ -16,10 +16,9 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 
 | | |
 |---|---|
-| 📍 **Location** | Giza, Egypt |
 | 🎓 **Education** | BIS — Faculty of Business Information Systems (GPA 3.66 / 4.0) |
 | 🎯 **Focus** | Business Intelligence · Dashboard Development · Data-Driven Decisions |
-| 📈 **Certification** | Professional Data Analyst Diploma — Mazen Analytics |
+| 📈 **Certification** | Professional Data Analyst Diploma |
 
 ---
 
@@ -103,7 +102,7 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 | Credential | Details |
 |---|---|
 | 🎓 **BIS Degree** | Faculty of Business Information Systems · Expected Jul 2026 · **GPA 3.66/4.0** |
-| 📜 **Data Analyst Diploma** | Mazen Analytics · SQL, Excel, Power BI, Python, Tableau, Statistics, Business Fundamentals |
+| 📜 **Data Analyst Diploma** | SQL, Excel, Power BI, Python, Tableau, Statistics, Business Fundamentals |
 | 🌍 **English Certificate** | The American University in Cairo (AUC) · B2 (Upper Intermediate) |
 
 **Languages:** Arabic (Native) · English (B2)
@@ -138,9 +137,9 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MostafaEssam100&style=flat-square&color=0EA5E9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MostafaEssam100&style=flat-square&color=8B5CF6" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0B1B33&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=100&section=footer" width="100%" />
 </p>
