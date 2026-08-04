@@ -67,13 +67,6 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 |---------|-------------|-------|--------------|
 | **Sales Performance Analysis** | Multi-region sales analysis with quarterly trend insights | Tableau | $10M+ in sales across 307 orders; $1.09M December spike identified |
 
-### 📗 Excel Analytics
-
-| Project | Description | Tools | Key Outcomes |
-|---------|-------------|-------|--------------|
-| **MISUO Sales Dashboard** | Customer order tracking with automated KPI summaries | Excel (PivotTables, Slicers) | $1.29M tracked revenue · 125 orders · 90.51% on-time delivery |
-
----
 
 ## Professional Experience
 
