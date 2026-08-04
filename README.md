@@ -68,14 +68,6 @@ Data Analyst skilled in **SQL, Power BI, Excel, Tableau, and Python**, with hand
 | **Sales Performance Analysis** | Multi-region sales analysis with quarterly trend insights | Tableau | $10M+ in sales across 307 orders; $1.09M December spike identified |
 
 
-## Professional Experience
-
-**Team Leader & Accountant** — Educational Center | *Mar 2023 – Nov 2025*
-- Provided monthly performance and financial reports in Excel using PivotTables and KPI summaries, translating operational data into management insights
-- Monitored operational KPIs across a team of 5, coordinating workflow and improving team efficiency
-- Conducted operational analysis to identify inefficiencies and implemented process improvements that increased productivity
-- Automated recurring Excel reporting with structured data validation, improving report accuracy
-
 ---
 
 ## Education & Certifications
